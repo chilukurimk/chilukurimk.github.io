@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2c6eddce.css",
+    "main.js": "/static/js/main.ec61ee28.js",
+    "static/js/453.acca0757.chunk.js": "/static/js/453.acca0757.chunk.js",
+    "static/media/powerBi.png": "/static/media/powerBi.285e4c6a53757410ab92.png",
+    "static/media/ForestDrynessIndex.jpg": "/static/media/ForestDrynessIndex.289510a2ba11367085eb.jpg",
+    "static/media/HotelRecommendationSystem.png": "/static/media/HotelRecommendationSystem.fd40be9885c718152741.png",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.2c6eddce.css.map": "/static/css/main.2c6eddce.css.map",
+    "main.ec61ee28.js.map": "/static/js/main.ec61ee28.js.map",
+    "453.acca0757.chunk.js.map": "/static/js/453.acca0757.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2c6eddce.css",
+    "static/js/main.ec61ee28.js"
+  ]
+}
