@@ -1,0 +1,11 @@
+.Intro {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+.Name{
+    font-size: xx-large ;
+}
+.App-link{
+    font-size: large;
+}
